@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601804044 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\4. hét\1. feladat intervallummal\1. feladat intervallummal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

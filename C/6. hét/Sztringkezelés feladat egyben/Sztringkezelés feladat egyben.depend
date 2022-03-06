@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1602926702 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\6. hét\sztringkezelés feladat egyben\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+

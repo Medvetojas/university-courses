@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600416788 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\2. hét\2. feladat\alsó egész, felsõ egész\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

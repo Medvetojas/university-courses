@@ -1,0 +1,3 @@
+OOP;2030-01-10;3
+Angol;2015-02-08;5
+Szakmai gyakorlat;2002-02-08;4

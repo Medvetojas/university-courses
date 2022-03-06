@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610191312 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\vizsga prep\tti\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

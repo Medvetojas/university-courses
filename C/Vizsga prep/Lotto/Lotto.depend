@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610272906 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\vizsga prep\lotto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

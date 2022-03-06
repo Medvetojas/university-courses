@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610369793 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\vizsga prep\ko-papir-ollo\main.c
+	<stdio.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600707839 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\3. hét\2. feladat\szamtani es mertani kozep\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

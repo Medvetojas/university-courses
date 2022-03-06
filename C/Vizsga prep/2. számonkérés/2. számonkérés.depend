@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610022658 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\vizsga prep\2. számonkérés\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

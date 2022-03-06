@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600709171 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\3. hét\3. feladat\faktorialis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

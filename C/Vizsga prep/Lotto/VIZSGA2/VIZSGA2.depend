@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1609851675 source:x:\programs\codeblocks\projects\vizsga2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1609857697 source:c:\users\babik\downloads\lotto\vizsga2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1609888567 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\vizsga prep\lotto\vizsga2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

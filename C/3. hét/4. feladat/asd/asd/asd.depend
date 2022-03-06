@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601109227 source:c:\users\babik\iclouddrive\suli\egyetem\programozás gyakorlás\egyetem\programozás alapjai\3. hét\4. feladat\asd\asd\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
