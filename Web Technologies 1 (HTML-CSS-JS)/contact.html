@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+
+<head>
+    <script src="./js/jquery-3.6.1.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/js.js"></script>
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/css.css">
+    <title>Kapcsolatfelvétel</title>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">
+                <img src="assets/logo.png" alt="Bootstrap" style="width: 50 px; height: 50px">
+            </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link" href="#">Főoldal</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="z4.html">A megújult BMW Z4</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="comparison.html">Összehasonlítás</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link active" href="contact.html">Kapcsolatfelvétel</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <main>
+        <section class="row justify-content-around section-content">
+          <div class="col text-center">
+            <h1>Kapcsolatfelvétel</h1>
+            <p class="margin-top"></p>
+            <p>Használd a lenti formot, hogy üzenj nekünk!</p>
+            <p><strong>A csillaggal jelölt mezők kitöltése kötelező!</strong></p>
+            <form class="form-feedback">
+              <div class="form-textbox">
+                <input type="Text" id="form_name" class="form-textbox-input" placeholder="Teljes neved*">
+              </div>
+              <div class="form-textbox">
+                <input type="Text" id="form_email" class="form-textbox-input" placeholder="Email címed*">
+              </div>
+              <div class="form-textbox">
+                Választ vársz az üzenetedre?
+                <div>
+                  <input type="radio" id="yes" name="reply" value="Igen">
+                  <label for="yes">Igen</label>
+                </div>
+                <div>
+                  <input type="radio" id="no" name="reply" value="Nem">
+                  <label for="no">Nem</label></div>
+                </div>
+              <div class="form-textarea">
+                <textarea></textarea>
+              </div>
+              <button class="btn btn-primary" onclick="form_send()">Beküldés</button>
+            </form>
+            <p class="margin-top"></p>
+          </div>
+          <div class="col text-center">
+            <div class="callout">
+              <h3>Telefonon elérsz minket!</h3>
+              <p>
+                <h4>+36301234567</h4>
+              </p>
+            </div>
+            <div class="callout">
+              <h3>Vagy inkább írnál egy emailt?</h3>
+              <p>
+                <h4>hello@medvetojas.hu</h4>
+              </p>
+            </div>
+          </div>
+        </section>
+      </main>
+</body>
